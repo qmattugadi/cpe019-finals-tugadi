@@ -4,7 +4,7 @@
 ## CPE 019-CPE32S1 - Emerging Technologies 2 in CpE
 
 
-Notes: Please use the given dataset from the repository
+Notes: Please use the given dataset csv file from the repository inside the data folder
 
 
  
